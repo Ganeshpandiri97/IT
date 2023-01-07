@@ -12,4 +12,10 @@ CI CD
 Testing
 Database
 Cloud computing
+<<<<<<< HED
 oops concept...
+=======
+oops concept
+<<Finished>>  
+Change in local
+
