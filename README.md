@@ -1,7 +1,15 @@
-# IT
-I have completed Linux commands, Sdlc, Jira topics
-Completed Cloud computing
-Completed version control system
-working on testing topic
-Changed file
-changing in local
+IT
+Completed :-
+Share point, confluence, API.
+Jira
+version control
+sdlc
+ETL tools
+Linux commands.
+
+Need to be complete :-
+CI CD
+Testing
+Database
+Cloud computing
+oops concept
