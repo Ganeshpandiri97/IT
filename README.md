@@ -6,10 +6,10 @@ version control
 sdlc
 ETL tools
 Linux commands.
-
-Need to be complete :-
 CI CD
 Testing
+
+Need to be complete :-
 Database
 Cloud computing
 oops topic
