@@ -9,7 +9,7 @@ Linux commands.
 CI CD
 Testing
 
-Need to be complete :-
+Need to be completed :-
 Database
 Cloud computing
 oops topic
